@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently at Robot Learning Raboratory at Soeul National University.
+- 🌱 I’m currently at Robot Learning Raboratory at Seoul National University.
 - 🤔 My research interests lie in robot learning, reinforcement learning, and robotics.
