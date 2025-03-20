@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi
 
 <!--
 **1kjs/1kjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently at Robot Learning Raboratory at Seoul National University.
-- 🤔 My research interests lie in robot learning, reinforcement learning, and robotics.
+- I’m currently at Robot Learning Raboratory at Seoul National University.
+- My research interests lie in robot learning, reinforcement learning, and robotics.
