@@ -1,4 +1,4 @@
-## Hi there
+## Jun KIm
 
 <!--
 **1kjs/1kjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
